@@ -1,9 +1,10 @@
-# project-ideashttps://hatchways.notion.site/Practice-Assessments-9f497493d9de4362baacc1e12be2f213
+# project-ideas
+
 A repo dedicated to project ideas with tutorials 
 
 Tags: 
 
-[SOLID] will give a great understanding of what's going on ASAP 
+[SOLID] will give a great understanding of what's going on ASAP: https://hatchways.notion.site/Practice-Assessments-9f497493d9de4362baacc1e12be2f213
 
 Pretty solid intro to api development using NodeJS checkout this Intro to Express API: https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9
 
